@@ -3,3 +3,4 @@ In case you want to attempt yourself or compare my model to yours -
 2. Rename ipynb_checkpoints to <b>.ipynb_checkpoints</b>
 3. Exploratory data analysis is done in explore.ipynb .
 4. Model selection an testing is done in algo.ipynb .
+5. My model is based on Random Forest Classifier and got 85.87% accuracy
